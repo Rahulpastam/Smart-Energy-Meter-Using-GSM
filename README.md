@@ -11,7 +11,6 @@
 6.Compile the Arduino Code in ARDUINO IDE before every execution to get current and accurate  time and date.
 <br>
 7.There is a tool error in RTC Module where the time runs slower than the current / actual time , we may get some delay in the displayed on the terminal.<br>
-8.**IGNORE** the "RTC_DS3232.ino" file in the folder "gsm and rtc hex files".
 
 
 
